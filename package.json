@@ -35,7 +35,7 @@
     "nodemailer-smtp-transport": "^2.7.2",
     "serve-favicon": "~2.5.0",
     "shortid": "^2.2.8",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "swagger-ui-express": "^3.0.10",
     "util": "^0.11.0",
     "winston": "^3.0.0"
